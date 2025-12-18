@@ -1,0 +1,4 @@
+1)sem_create accepts 1 argument` initial value
+2)does nothing
+3)how many processes waiting
+4)

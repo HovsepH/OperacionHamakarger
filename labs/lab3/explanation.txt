@@ -1,0 +1,5 @@
+1)sem_create
+2)sem_setall
+3)first one creates semaphore
+4)successfully operates but dont knwo what 
+dont understand i work with sets or semaphores and what values mean

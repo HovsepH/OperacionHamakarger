@@ -1,0 +1,2 @@
+mmap() - mapps file or anonymous memery into processes virtual address space, after it no read/write needed
+Each process has its own virtual address space

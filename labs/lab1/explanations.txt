@@ -1,0 +1,10 @@
+1) make, ./out/message_create -retruns id of the queue
+2)done
+3)returns details about queue used-bytes=4
+4)first time reads
+5)interprocess
+6)IPC_NOWAIT
+7)MSG_NOERROR
+8)IPC_PRIVATE
+9)remove by id
+10)sets the queues maximum allowed bytes
